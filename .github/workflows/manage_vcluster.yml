@@ -1,3 +1,6 @@
+on:
+  workflow_call
+
 jobs:
   setup-vcluster:
     name: "Setup Vcluster"
